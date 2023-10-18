@@ -6,4 +6,4 @@ headless = true\n\
 port = $PORT\n\
 enableCORS = false\n\
 \n\
-" > %userprofile%/.streamlit/config.toml
+" > ~/.streamlit/config.toml
